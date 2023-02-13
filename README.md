@@ -397,35 +397,88 @@ Badge Format:
 
 [<img src="https://img.shields.io/badge/Azul%20Verdosa-Rocks-9cf?logo=LOGO">](LINK)
 
-## TEMPLATES
+## TEMPLATE
 
-<h1 align="center"><project-name></h1>
+ReadMe template from [Malgorzata Rita Ły](https://github.com/ritaly/README-cheatsheet)
 
-<p align="center"><project-description></p>
+---
 
-## LINKS
+# Project Name
 
-- [Repo](https://github.com/Rohit19060/<project-name> '<project-name> Repo')
+> Outline a brief description of your project. Live demo here.
 
-- [Live](<Homepage url> 'Live View')
+## Table of Contents
 
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues 'Issues Page')
+---
 
-- [API](<API Link> 'API')
+- General Info
+- Technologies Used
+- Features
+- Screenshots
+- Setup
+- Usage
+- Project Status
+- Room for Improvement
+- Acknowledgements
+- Contact
+
+## General Information
+
+---
+
+Provide general information about your project here.
+What problem does it (intend to) solve?
+What is the purpose of your project?
+Why did you undertake it?
+
+## Technologies Used
+
+---
+
+- Tech 1 - version 1.0
+
+- Tech 2 - version 2.0
+
+- Tech 3 - version 3.0
+
+## Features
+
+---
+
+List the ready features here:
+
+Awesome feature 1
+
+- Description
+
+Awesome feature 2
+
+- Description
+
+Awesome feature 3
+
+- Description
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png 'Home Page')
+---
 
-![](/screenshots/2.png)
+![Home Page](/screenshots/4.png 'Home Page')
+Description of screenshot
 
-![](/screenshots/3.png)
+## Setup
 
-## Available Commands
+---
+
+What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+
+Proceed to describe how to install / setup one's local environment / get started with the project.
+
+### Available Commands
 
 In the project directory, you can run:
 
-### `npm start" : "react-scripts start"`,
+### `"npm start" : "react-scripts start"`,
 
 The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
 You will also see any lint errors in the console.
@@ -442,53 +495,60 @@ Launches the test runner in the interactive watch mode.
 
 For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
 
-### `"serve": "node server"`
+## Usage
 
-For running the server file on you can use this command.
+---
 
-### `npm run serve`
+How does one go about using it? Provide various use cases and code examples here.
 
-## Built With
+    write-your-code-here
 
-- JavaScript
-- Node
-- NPM
-- Webpack
-- HTML
-- CSS
+## Project Status
 
-## Future Updates
+---
 
-- [ ] Reliable Storage
+Project is: in progress / complete / no longer being worked on. If you are no longer working on it, provide reasons why.
 
-## Author
+## Room for Improvement
 
-**Rohit Jain**
+---
 
-- [Profile](https://github.com/rohit19060 'Rohit jain')
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi 'Hi!')
+Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+
+Room for improvement:
+
+- Improvement to be done 1
+- Improvement to be done 2
+
+To do:
+
+- Feature to be added 1
+- Feature to be added 2
+
+## Acknowledgements
+
+---
+
+Give credit here.
+
+This project was inspired by...
+This project was based on this tutorial.
+Many thanks to...
+
+##Contact
+
+---
+
+Created by @flynerdpl - feel free to contact me!
+
+- [GitHub Profile](https://github.com/azulverdosa 'Ava Elise')
+- [LinkedIn](https://www.linkedin.com/in/avatorre/ 'linked')
 - [Website](https://kingtechnologies.in 'Welcome')
 
 ## 🤝 Support
 
+---
+
 Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
-
----
-
-1. Name, date & version -- self-explanatory names are best. collide-2d-aabb-aabb sounds promising, though it assumes I know what an , is. If the name sounds too vague or unrelated, it may be a signal to move on.
-
-2. One-liner -- having a one-liner that describes the module is useful for getting an idea of what the module does in slightly greater detail. collide-2d-aabb-aabb says it:
-
-   Determines whether a moving axis-aligned bounding box (AABB) collides with other AABBs.
-
-- Awesome: it defines what an AABB is, and what the module does. Now to gauge how well it'd fit into my code:
-
-3. Usage -- rather than starting to delve into the API docs, it'd be great to see what the module looks like in action. I can quickly determine whether the example JS fits the desired style and problem. People have lots of opinions on things like promises/callbacks and ES6. If it does fit the bill, then I can proceed to greater detail.
-
-4. API -- the name, description, and usage of this module all sound appealing to me. I'm very likely to use this module at this point. I just need to scan the API to make sure it does exactly what I need and that it will integrate easily into my codebase. The API section ought to detail the module's objects and functions, their signatures, return types, callbacks, and events in detail. Types should be included where they aren't obvious. Caveats should be made clear.
-
-5. Installation -- if I've read this far down, then I'm sold on trying out the module. If there are nonstandard installation notes, here's where they'd go, but even if it's just a regular npm install, I'd like to see that mentioned, too. New users start using Node all the time, so having a link to npmjs.org and an install command provides them the resources to figure out how Node modules work.
-
-6. License -- most modules put this at the very bottom, but this might actually be better to have higher up; you're likely to exclude a module VERY quickly if it has a license incompatible with your work. I generally stick to the MIT/BSD/X11/ISC flavours. If you have a non-permissive license, stick it at the very top of the module to prevent any confusion.
