@@ -593,4 +593,4 @@ Give a ⭐️ if you like this project!
 
 ---
 
-MIT License Copyright (c) [2022] [AvaElise]
+MIT License Copyright (c) [2023] [AvaElise]
