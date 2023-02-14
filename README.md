@@ -575,11 +575,11 @@ Many thanks to...
 
 ---
 
-Created by @flynerdpl - feel free to contact me!
+Created by [@azulverdosa](ellemocambo@gmail.com) - feel free to contact me!
 
 - [GitHub Profile](https://github.com/azulverdosa 'Ava Elise')
 - [LinkedIn](https://www.linkedin.com/in/avatorre/ 'linked')
-- [Website](https://kingtechnologies.in 'Welcome')
+- [Website](https://websitehere.com 'Welcome')
 
 ## 🤝 Support
 
