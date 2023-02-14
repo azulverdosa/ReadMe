@@ -551,7 +551,7 @@ Project is: in progress / complete / no longer being worked on. If you are no lo
 
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
-Room for improvement:
+Improvement Thoughts:
 
 - Improvement to be done 1
 - Improvement to be done 2
