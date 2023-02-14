@@ -163,15 +163,15 @@ This is the _[Markdown Guide](https://www.markdownguide.org)_.
     This is the *[Markdown Guide](https://www.markdownguide.org)*.
     See the section on [`code`](#code).
 
-See the section on [`code`](#code).
-
 ---
 
 ## RELATIVE LINKS
 
 You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
 
-[Contribution guidelines for this project](README2.md)
+[Contribution guidelines for this project](ContributionGuidelines.md)
+
+See the section on [`code`](#code).
 
 ---
 
