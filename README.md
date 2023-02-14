@@ -1,4 +1,26 @@
-# MARKDOWN
+# NOTE:
+
+This guy is a work in progress, but will eventually be my guide to building better READMEs for all my projects. A project for other projects 😊
+
+---
+
+### Table Of Contents
+
+- [Headers](#headers)
+- [Lists](#lists)
+- [Tables](#tables)
+- [Links](#links)
+- [Relative Links](#relative-links)
+- [Images](#images)
+- [Code](#code)
+- [Styling](#styling)
+- [Horizontal Rule](#horizontal-rule)
+- [Drop Downs](#dropdowns)
+- [Blockquotes](#blockquotes)
+- [Colour Models](#colour-models)
+- [Badges](#badges)
+- [Generating Badges](#generating-badges)
+- [Template](#template)
 
 ## HEADERS
 
@@ -22,11 +44,11 @@
 
 - Candy
 - Gum
-- Booze
+- Chocolate
 
   - Sublists
 
-    - Sub-sublists
+    - Sublist - list
     - A list item.
 
       With multiple paragraphs.
@@ -39,13 +61,13 @@
 1.  Red
 2.  Green
 3.  Blue
-    - Something else
-      - Even something else
+    - Sublist for the numbered list
+      - And something else
 
 ### Check List
 
 - [x] Finish my changes
-- [ ] Push my commits to GitHub
+- [x] Push my commits to GitHub
 - [ ] Open a pull request
   - [ ] Open a pull request (again)
     - [ ] Open another pull request
@@ -144,7 +166,7 @@ See the section on [`code`](#code).
 
 ---
 
-## RELATIVE LINKS:
+## RELATIVE LINKS
 
 You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
 
@@ -152,7 +174,7 @@ You can define relative links and image paths in your rendered files to help rea
 
 ---
 
-## IMAGES:
+## IMAGES
 
 When you want to display an image which is in your repository, you should use relative link (Hover to see titles):
 
@@ -338,7 +360,7 @@ Fantastic Premade Dev Badges at <https://home.aveek.io/GitHub-Profile-Badges/> :
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 
-## BADGE GENERATING
+## GENERATING BADGES
 
 ### Fast badge generating service from <https://badgen.net/>
 
