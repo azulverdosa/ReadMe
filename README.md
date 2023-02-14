@@ -21,6 +21,7 @@ This guy is a work in progress, but will eventually be my guide to building bett
 - [Badges](#badges)
 - [Generating Badges](#generating-badges)
 - [Template](#template)
+- [Lisence](#license)
 
 ## HEADERS
 
@@ -557,7 +558,7 @@ This project was inspired by...
 This project was based on this tutorial.
 Many thanks to...
 
-##Contact
+## Contact
 
 ---
 
@@ -574,3 +575,9 @@ Created by @flynerdpl - feel free to contact me!
 Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
+
+## License
+
+---
+
+MIT License Copyright (c) [2022] [AvaElise]
