@@ -200,6 +200,8 @@ Whenyou want to use an image from the internet you should use the absolute link:
 
 ![me as Octocat](https://octodex.github.com/images/femalecodertocat.png)
 
+<img alt="me as Octocat" src="https://octodex.github.com/images/femalecodertocat.png" width="400" height="400" />
+
 ---
 
 ## CODE
