@@ -356,8 +356,7 @@ Fantastic Premade Dev Badges at <https://home.aveek.io/GitHub-Profile-Badges/> :
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-76D04B.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
@@ -382,7 +381,7 @@ Examples:
 
 ![docker star rating](https://badgen.net//docker/stars/library/mongo?icon=docker&label=stars)
 
-[![my badge](https://badgen.net/badge/Ava%20is%20cool/azulverdosa/purple)](https://github.com/azulverdosa)
+![my badge](https://badgen.net/badge/Ava%20is%20cool/azulverdosa/purple)
 
 ### Great examples from [Naereen](https://github.com/Naereen) on GitHub <https://naereen.github.io/badges/>:
 
@@ -454,7 +453,7 @@ What problem does it (intend to) solve?
 What is the purpose of your project?
 Why did you undertake it?
 
-## Technologies Used
+## Tech Stack
 
 ---
 
@@ -495,12 +494,6 @@ What are the project requirements/dependencies? Where are they listed? A require
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
-### Dependencies
-
-- Dependency 1
-- Dependency 2
-- Dependency 3
-
 ### Run Locally
 
 1. Clone repo locally
@@ -527,7 +520,7 @@ Launches the test runner in the interactive watch mode.
 
 `"npm run dev": "concurrently "nodemon server" "npm run start"`,
 
-For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
+For running the server and app together I am using nodemon concurrently, this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
 
 ## Usage
 
