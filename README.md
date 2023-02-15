@@ -2,8 +2,6 @@
 
 This guy is a work in progress, but will eventually be my guide to building better READMEs for all my projects. A project for other projects 😊
 
----
-
 ### Table Of Contents
 
 - [Headers](#headers)
@@ -36,8 +34,6 @@ This guy is a work in progress, but will eventually be my guide to building bett
 ##### Fifth LEvel Header
 
 ###### Sixth Level Header
-
----
 
 ## LISTS
 
@@ -90,20 +86,16 @@ This guy is a work in progress, but will eventually be my guide to building bett
 1. Open the file containing the photo of me.
 2. Marvel at its beauty.
 
-   ![Tux, the Linux mascot](/images/Screenshot%202023-02-13%20at%203.37.50%20PM.png)
+   ![mind blown](/images/Screenshot%202023-02-13%20at%203.37.50%20PM.png)
 
 3. Close the file.
-
----
 
 ## TABLES
 
 | Left-aligned | Center-aligned | Right-aligned |
-| :----------- | :------------: | ------------: |
-| git status   |   git status   |    git status |
-| git diff     |    git diff    |      git diff |
-
----
+| :----------- | :------------: | :------------ |
+| git status   |   git status   | git status    |
+| git diff     |    git diff    | git diff      |
 
 ## LINKS
 
@@ -163,8 +155,6 @@ This is the _[Markdown Guide](https://www.markdownguide.org)_.
     This is the *[Markdown Guide](https://www.markdownguide.org)*.
     See the section on [`code`](#code).
 
----
-
 ## RELATIVE LINKS
 
 You can define relative links and image paths in your rendered files to help readers navigate to other files in your repository.
@@ -172,8 +162,6 @@ You can define relative links and image paths in your rendered files to help rea
 [Contribution guidelines for this project](ContributionGuidelines.md)
 
 See the section on [`code`](#code).
-
----
 
 ## IMAGES
 
@@ -201,8 +189,6 @@ Whenyou want to use an image from the internet you should use the absolute link:
 
 <img alt="me as Octocat" src="https://octodex.github.com/images/femalecodertocat.png" width="400" height="400" />
 
----
-
 ## CODE
 
 I wish SmartyPants used named entities like `&mdash;`
@@ -228,8 +214,6 @@ s = "Python syntax highlighting"
 print s
 ```
 
----
-
 ## STYLING
 
 **This is bold text**
@@ -246,17 +230,11 @@ Text<sup>This is a superscript text</sup>
 
 Text <sub>This is a subscript text</sub>
 
----
-
 ## HORIZONTAL RULE
 
 Use \_\_\_ and try to put a blank line before...
 
----
-
 ...and after a horizontal rule.
-
----
 
 ## DROPDOWNS
 
@@ -283,8 +261,6 @@ Yes, Anything
   Another dropdown!
 </details>
 
----
-
 ## BLOCKQUOTES
 
 > "Text that is a quote"
@@ -309,8 +285,6 @@ Yes, Anything
 > - Profits were higher than ever.
 >
 >   _Everything_ is going according to **plan**.
-
----
 
 ## COLOUR MODELS
 
@@ -339,8 +313,6 @@ Some Markdown text with <span style="color:blue">some _blue_ text</span>:
 <span style="color:red"> _some emphasized markdown text:_</span>
 
     span style="color:red"> _some emphasized markdown text_</span>
-
----
 
 ## BADGES
 
@@ -423,15 +395,11 @@ Badge Format:
 
 ReadMe template from [Malgorzata Rita Ły](https://github.com/ritaly/README-cheatsheet)
 
----
-
 # Project Name
 
 > Outline a brief description of your project. Live demo here.
 
 ## Table of Contents
-
----
 
 - [General Info](#general-information)
 - [Technologies Used](#technologies-used)
@@ -446,8 +414,6 @@ ReadMe template from [Malgorzata Rita Ły](https://github.com/ritaly/README-chea
 
 ## General Information
 
----
-
 Provide general information about your project here.
 What problem does it (intend to) solve?
 What is the purpose of your project?
@@ -455,15 +421,11 @@ Why did you undertake it?
 
 ## Tech Stack
 
----
-
 - Tech 1 - version 1.0
 - Tech 2 - version 2.0
 - Tech 3 - version 3.0
 
 ## Features
-
----
 
 List the ready features here:
 
@@ -481,14 +443,10 @@ Awesome feature 3
 
 ## Screenshots
 
----
-
 ![Home Page](/screenshots/4.png 'Home Page')
 Description of screenshot
 
 ## Setup
-
----
 
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
@@ -531,21 +489,15 @@ The build is minified and the filenames include the hashes.
 
 ## Usage
 
----
-
 How does one go about using it? Provide various use cases and code examples here.
 
     write-your-code-here
 
 ## Project Status
 
----
-
 Project is: in progress / complete / no longer being worked on. If you are no longer working on it, provide reasons why.
 
 ## Room for Improvement
-
----
 
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
@@ -556,12 +508,10 @@ Improvement Thoughts:
 
 To do:
 
-- Feature to be added 1
-- Feature to be added 2
+- [ ] Feature to be added 1.
+- [ ] Feature to be added 2.
 
 ## Acknowledgements
-
----
 
 Give credit here.
 
@@ -571,8 +521,6 @@ Many thanks to...
 
 ## Contact
 
----
-
 Created by [@azulverdosa](ellemocambo@gmail.com) - feel free to contact me!
 
 - [GitHub Profile](https://github.com/azulverdosa 'Ava Elise')
@@ -581,14 +529,10 @@ Created by [@azulverdosa](ellemocambo@gmail.com) - feel free to contact me!
 
 ## 🤝 Support
 
----
-
 Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
 
 ## License
-
----
 
 MIT License Copyright (c) [2023] [AvaElise]
