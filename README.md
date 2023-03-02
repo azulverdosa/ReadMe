@@ -1,9 +1,10 @@
-# NOTE:
+## NOTE:
 
-This guy is a work in progress, but will eventually be my guide to building better READMEs for all my projects. A project for other projects 😊
+This is a work in progress, but will eventually be my guide to building better READMEs for all my projects. A project for other projects 😊
 
 ### Table Of Contents
 
+- [Template](#template)
 - [Headers](#headers)
 - [Lists](#lists)
 - [Tables](#tables)
@@ -20,6 +21,165 @@ This guy is a work in progress, but will eventually be my guide to building bett
 - [Generating Badges](#generating-badges)
 - [Template](#template)
 - [Lisence](#license)
+
+# TEMPLATE
+
+# Put Your Title Here
+
+Breif description of what the app does.
+
+Example: <br/>
+
+> A relatively simple fullstack project that allows users to track workouts. Live demo [here](http://demoexamplecomingsoon.com 'Not a real link') (coming soon).
+
+## Table of Contents
+
+- [General Info](#general-information)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Project Status](#project-status)
+- [Room for Improvement](#room-for-improvement)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+
+## General Information
+
+This is where you would mention what the app does in slightly more detail, what problem it solves and why you built it (if they are not the same thing)
+
+Example: <br/>
+This is a simple MERN stack application to track user exercises. It's a helpful app for tracking (exercises or otherwise) and was intended to help me learn Authentiation and continue to work on my fullstack building using the MERN stack.
+
+## Tech Stack
+
+Mention all the languages you used to build the app.
+
+Example: <br/>
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Express](https://img.shields.io/badge/Express-CA4245.svg?style=for-the-badge&logo=Express&logoColor=white)
+
+## Features
+
+This is where you describe some of the key features of the app and show screenshots of them.
+
+Exercise list:
+
+- List of exercises
+
+  ![Home Page](/screenshots/4.png 'Home Page')
+  Description of screenshot here
+
+Exercise log form:
+
+- Form to enter workout details:
+
+  ![Home Page](/screenshots/4.png 'Home Page')
+  Description of screenshot here
+
+Exercise Delete Button:
+
+- Delete a workout from the database:
+
+  ![Home Page](/screenshots/4.png 'Home Page')
+  Description of screenshot here
+
+## Setup
+
+Describe how to run the app.
+
+Example: <br/>
+
+### Run Locally
+
+1. Clone repo locally
+2. Change into API folder
+3. Run `npm install` in your bash/command line
+4. Change into UI folder
+5. Run `npm install` in your bash/command line
+6. In the API folder, run `npm run dev` in your bash/command line
+7. Open [http://localhost:4000/hello-world](http://localhost:4000/hello-world) to view it in the browser.
+8. In the UI folder, run `npm start` in your bash/command line
+9. Open [http://localhost:3000](http://localhost:3000) to view it n the browser.
+
+### Available Commands
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+In the project directory, you can run:
+
+`npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.
+
+`npm run dev`
+
+Runs the server. Open [http://localhost:4040](http://localhost:4040) to view it in your browser. I am also using nodemon.
+
+## Usage
+
+How does one go about using it? Provide various use cases and code examples here.
+
+    write-your-code-here
+
+## Project Status
+
+Is the project done yet? Could be, In progress, complete or finishing touches.
+
+Example:
+
+Status: In Progress - Almost done!
+
+## Room for Improvement
+
+Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+
+Improvement Thoughts:
+
+- Second part of this app is to add authentication for users to have accounts.
+- Styling needs to be updated.
+
+To do:
+
+- [ ] Add Auth
+- [ ] re-design
+
+## Acknowledgements
+
+Is there anyone you worked on the app with? Did you get it from a tutorial? Mention them here.
+
+Example:
+
+Many thanks to [Net Ninja](https://netninja.dev/), this project was based on [this tutorial](https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&index=1) from the [Net Ninja YouTube](https://www.youtube.com/@NetNinja) page!
+
+## Contact
+
+Created by [@azulverdosa](ellemocambo@gmail.com) - feel free to contact me!
+
+- [LinkedIn](https://www.linkedin.com/in/avatorre/ 'linked')
+
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️ if you like this project!
+
+## License
+
+MIT License Copyright (c) [2023] [AvaElise]
+
+---
+
+# Markdown Tips and Tricks
 
 ## HEADERS
 
@@ -183,7 +343,7 @@ When you want to display an image which is in your repository, you should use re
 
 ![kiss](/images/Screenshot%202023-02-13%20at%2012.28.55%20PM.png 'Sometimes I have fancy hair')
 
-Whenyou want to use an image from the internet you should use the absolute link:
+When you want to use an image from the internet you should use the absolute link:
 
     ![me as Octocat](https://octodex.github.com/images/femalecodertocat.png)
 
@@ -390,149 +550,3 @@ Badge Format:
 [<img src="https://img.shields.io/badge/LABEL-MESSAGE-COLOR.svg?logo=LOGO">](LINK)
 
 [<img src="https://img.shields.io/badge/Azul%20Verdosa-Rocks-9cf?logo=LOGO">](LINK)
-
-## TEMPLATE
-
-ReadMe template from [Malgorzata Rita Ły](https://github.com/ritaly/README-cheatsheet)
-
-# Project Name
-
-> Outline a brief description of your project. Live demo here.
-
-## Table of Contents
-
-- [General Info](#general-information)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Project Status](#project-status)
-- [Room for Improvement](#room-for-improvement)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
-
-## General Information
-
-Provide general information about your project here.
-What problem does it (intend to) solve?
-What is the purpose of your project?
-Why did you undertake it?
-
-## Tech Stack
-
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-## Features
-
-List the ready features here:
-
-Awesome feature 1
-
-- Description
-
-Awesome feature 2
-
-- Description
-
-Awesome feature 3
-
-- Description
-
-## Screenshots
-
-![Home Page](/screenshots/4.png 'Home Page')
-Description of screenshot
-
-## Setup
-
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-### Run Locally
-
-1. Clone repo locally.
-2. Run `npm install` in your bash/command line in the main project folder.
-3. Run `npm start` in your bash/command line in the UI folder.
-4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-5. Run `npm run dev` in your bash/command line in the API folder.
-6. Open [http://localhost:XXXX](http://localhost:XXXX) to view it in the browser.
-
-### Available Commands
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-`npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.
-
-`npm run dev`
-
-Runs the server. Open [http://localhost:XXXX](http://localhost:XXXX) to view it in your browser. I am also using nodemon.
-
-`npm test`
-
-Launches the test runner in the interactive watch mode.
-
-`npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.
-
-## Usage
-
-How does one go about using it? Provide various use cases and code examples here.
-
-    write-your-code-here
-
-## Project Status
-
-Project is: in progress / complete / no longer being worked on. If you are no longer working on it, provide reasons why.
-
-## Room for Improvement
-
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Improvement Thoughts:
-
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-
-- [ ] Feature to be added 1.
-- [ ] Feature to be added 2.
-
-## Acknowledgements
-
-Give credit here.
-
-This project was inspired by...
-This project was based on this tutorial.
-Many thanks to...
-
-## Contact
-
-Created by [@azulverdosa](ellemocambo@gmail.com) - feel free to contact me!
-
-- [GitHub Profile](https://github.com/azulverdosa 'Ava Elise')
-- [LinkedIn](https://www.linkedin.com/in/avatorre/ 'linked')
-- [Website](https://websitehere.com 'Welcome')
-
-## 🤝 Support
-
-Contributions, issues, and feature requests are welcome!
-
-Give a ⭐️ if you like this project!
-
-## License
-
-MIT License Copyright (c) [2023] [AvaElise]
