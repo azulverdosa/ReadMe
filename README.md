@@ -173,9 +173,9 @@ Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
 
-## License
+## Licence
 
-MIT License Copyright (c) [2023] [AvaElise]
+MIT Licence Copyright (c) [2023] [AvaElise]
 
 ---
 
