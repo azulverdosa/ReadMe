@@ -1,4 +1,4 @@
-## NOTE:
+ ## NOTE:
 
 This is a work in progress, but will eventually be my guide to building better READMEs for all my projects. A project for other projects 😊
 
@@ -355,6 +355,8 @@ I wish SmartyPants used named entities like `&mdash;`
 instead of decimal-encoded entites like `&#8212;`.
 
 Use double backticks for backticked-ed code : `` Use `code` in your Markdown file. ``
+
+Use tripp backticks for code blocks:
 
 ```javascript
 const = something;
